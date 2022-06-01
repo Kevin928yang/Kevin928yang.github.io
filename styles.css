@@ -17,6 +17,8 @@
   animation-name:color-change;
   animation-duration:7;
   animation-iteration:infinite;
+  width:100px;
+  height:100px;
 }
 
 .container {
