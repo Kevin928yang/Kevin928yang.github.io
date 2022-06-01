@@ -21,11 +21,12 @@ h2,.bruh:hover {
 
 .container {
   display:flex;
-  
+  border:2px solid rgb(15, 96, 245);
+  height:500px;
 }
 
 .container {
-  border:2px solid rgb(255,51,51);
+  border:2px solid rgb(255, 51, 51);
   padding:10px;
   width:100px
 }
