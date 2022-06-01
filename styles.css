@@ -14,6 +14,12 @@
 }
 
 .block {
+  background-color:#ffffff;
+  width:100px;
+  height:100px;
+}
+
+.block animation {
   animation-name:color-change;
   animation-duration:7;
   animation-iteration:infinite;
