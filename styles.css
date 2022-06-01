@@ -25,6 +25,8 @@ h2,.bruh:hover {
   flex-wrap:nowrap;
   border:2px solid rgb(15, 96, 245);
   height:500px;
+  justify-content: center;
+  align-items: center;
 }
 
 .container div{
