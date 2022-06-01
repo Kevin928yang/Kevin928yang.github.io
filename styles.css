@@ -26,7 +26,7 @@
   flex-direction:column;
   flex-wrap:nowrap;
   border:2px solid rgb(15, 96, 245);
-  height:500px;
+  height:750px;
   justify-content: flex-end;
   align-items: center;
 }
