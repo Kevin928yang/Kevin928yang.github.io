@@ -3,17 +3,17 @@
 }
 
 @keyframes color-change {
-  0% {style=color:#F00000;}
-  14% {style=color:#FFAC12;}
-  28% {style=color:#FFFF00;}
-  42% {style=color:#00E600;}
-  57% {style=color:#CCCCFF;}
-  71% {style=color:#0000A8;}
-  85% {style=color:#6400AD;}
-  100% {style=color:#ffffff;}
+  0%   {background-color:#F00000;}
+  14%  {background-color:#FFAC12;}
+  28%  {background-color:#FFFF00;}
+  42%  {background-color:#00E600;}
+  57%  {background-color:#CCCCFF;}
+  71%  {background-color:#0000A8;}
+  85%  {background-color:#6400AD;}
+  100% {background-color:#ffffff;}
 }
 
-h2,.bruh:hover {
+.bgts {
   animation-name:color-change;
   animation-duration:7;
   animation-iteration:infinite;
