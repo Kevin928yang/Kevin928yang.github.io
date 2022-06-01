@@ -55,7 +55,7 @@
   background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTis2cvZWTkSDR4MivLXKaK1cU4KhNBB9FyMSQ6aVRbsroNV9Tt");
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100% 100%;
+  background-size: cover;
 }
 
 input{border:0;
