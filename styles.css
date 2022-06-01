@@ -13,7 +13,7 @@
   100% {background-color:#ffffff;}
 }
 
-.bgts {
+.block {
   animation-name:color-change;
   animation-duration:7;
   animation-iteration:infinite;
@@ -29,14 +29,26 @@
   align-items: center;
 }
 
-/*.container div{
+/*
+.container div{
   border:2px solid rgb(255, 51, 51);
   padding:10px;
   width:100px;
   height:75px;
-}*/
+}
+*/
+
+.box1 {
+ 
+  
+}
 
 .box2 {
+ 
+  
+}
+
+.box3 {
  
   
 }
