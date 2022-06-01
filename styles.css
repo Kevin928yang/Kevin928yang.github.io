@@ -57,3 +57,14 @@
   background-attachment: fixed;
   background-size: 100% 100%;
 }
+
+input{border:0;
+  background-color:	#0000E3;
+  color:#DFFFDF;
+  cursor:wait;}
+
+input:hover{
+  color:#003C9D;
+  background-color:#DFFFDF;
+  border:2px 	#0000E3 solid;
+}
