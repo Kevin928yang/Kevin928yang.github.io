@@ -50,3 +50,10 @@ h2,.bruh:hover {
  
   
 }
+
+.bg {
+  background-image: url("https://static.wikia.nocookie.net/8c2ec5bd-2237-421f-a20c-a3ab1ce7ffdc");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
