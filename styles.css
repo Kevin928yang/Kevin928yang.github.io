@@ -12,7 +12,7 @@
   85% {style=color:#6400AD;}
   100% {style=color:#ffffff;}
 }
-h2-animation:hover{
+h2:hover,.bruh:hover{
   animation-name:color-change;
   animation-duration:7;
   animation-iteration:infinite;
